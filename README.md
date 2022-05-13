@@ -1,2 +1,2 @@
-# Packet-Capture
-A packet capture program that displays all fields for every packet
+# Packet-Sniffer
+A packet sniffer program that displays all fields for every packet in a network.
